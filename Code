@@ -1,7 +1,7 @@
 # The code in this cell is used to import the packages throughout this notebook.
 # The following are private packages available only during this simulation:
-from AmplifyQuantTrading import Data
-from AmplifyArbitrageTrading.TradingEngine import TradingEngine
+from (dataset) import Data
+from (arbitragetradingengine).TradingEngine import TradingEngine
 
 # The following are publicly available packages:
 from matplotlib import pyplot as plt
